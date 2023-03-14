@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ArtCompose</string>
+    <string name="t1">La Gioconda</string>
+    <string name="t2">La joven de la perla</string>
+    <string name="t3">La noche estrellada</string>
+    <string name="t4">La libertad guiando al pueblo</string>
+
+    <string name="creacionT1">Creada en el año 1503 por el artista Leonardo da Vinci</string>
+    <string name="creacionT2">Creada en el año 1665 por la artista Johannes Vermeer</string>
+    <string name="creacionT3">Creada en el año 1889 por el artista Vincent Van Gogh</string>
+    <string name="creacionT4">Creada en el año 1830 por el artista Eugéne Delacroix</string>
+</resources>
